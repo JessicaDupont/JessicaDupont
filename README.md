@@ -4,7 +4,8 @@
 
 Je suis Jessica Dupont, développeuse Web en `React`/`ExpressJS`, `Angular`/`NestJS` et `ASP.NET`.
 
-:bell: Je suis actuellement à la recherche d'un emploi. Je dispose d'un stage de 6 semaines grâce à ma formation à TechnofuturTIC à prester entre avril et septembre 2023.
+:bell: Je suis actuellement à la recherche d'un emploi. 
+Je peux effectuer un stage de 6 semaines grâce à ma formation à TechnofuturTIC. Celui-ci est à prester entre avril et septembre 2023.
 
 Je possède le permis B (voiture) ainsi qu'un véhicule.
 
