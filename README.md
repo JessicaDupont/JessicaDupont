@@ -39,4 +39,5 @@ Je possède le permis B (voiture) ainsi qu'un véhicule.
 * :e-mail: : [jessica.dupont1990@gmail.com](jessica.dupont1990@gmail.com)
 * :telephone_receiver: : 0032 479 345 784
 * 🌐 : [www.jessicadupont.be](http://www.jessicadupont.be)
+* 🏠 : 4570 Marchin, Belgique
 * LinkedIn : [jessica-dupont-1990](https://www.linkedin.com/in/jessica-dupont-1990/)
