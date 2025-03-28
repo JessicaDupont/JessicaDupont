@@ -1,5 +1,3 @@
-![https://media.licdn.com/dms/image/D4E16AQGv32LqXnT8fQ/profile-displaybackgroundimage-shrink_350_1400/0/1673949525010?e=1680739200&v=beta&t=mpHOg4Twfw1ukJgsTpR8NayX90_YsgP-qOfDFLTf-qo](https://media.licdn.com/dms/image/D4E16AQGv32LqXnT8fQ/profile-displaybackgroundimage-shrink_350_1400/0/1673949525010?e=1680739200&v=beta&t=mpHOg4Twfw1ukJgsTpR8NayX90_YsgP-qOfDFLTf-qo)
-
 # Hi there 👋
 
 Je suis Jessica Dupont, développeuse Web en `React`/`ExpressJS`, `Angular`/`NestJS` et `ASP.NET`.
@@ -11,6 +9,8 @@ Je possède le permis B (voiture) ainsi qu'un véhicule.
 
 # Mon parcours chronologique
 :pencil: : études, :anchor: : expériences professionnelles, :hearts: : autres
+* :pencil: 09/2023 - current : Informatique de gestion (bachelier) - ISL
+* :anchor: 04/2023 - 06/2023 : Dev Ful stack C# (stage) - Eocene group
 * :pencil: 09/2022 - 03/2023 : Dev Web orienté Data Analysis (formation) - TechnoFuturTIC
 * :anchor: 03/2022 - 03/2023 : Dev Web API .NET (hackathon) - Citizens of Wallonia
 * :pencil: 03/2021 - 09/2021 : Dev .NET spécialisé BI (formation) - TechnoFuturTIC
